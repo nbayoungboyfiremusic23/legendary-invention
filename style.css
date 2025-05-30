@@ -14,5 +14,12 @@ p {
 }
 *{
     text-align: center;
-    color: indianred;
+    color: pink;
 }
+
+body {
+    background-image: url("lebron.gif")
+}
+p.ridge {border-style: ridge;}
+
+<p class="ridge">hi.</p>
